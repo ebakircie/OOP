@@ -9,8 +9,8 @@ With OOP developers manipulate objects and this approach is well suited for larg
 ## Benefits of OOP
 - Re-usability
 - Security
-- Developing complex software
 - Extensibility
 - Maintainability
 - Efficiency
 - Understandability
+- Developing complex software
