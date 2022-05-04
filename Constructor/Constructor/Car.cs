@@ -28,7 +28,7 @@ namespace YZL5155_Constructor
 
         public Car(string marka)
         {
-            //this means it's relevant class. We can reach objects of this class.
+            //"this" means it's relevant class. We can reach objects of this class.
             this.Brand = marka;
            
             MessageBox.Show($"Brand: {this.Brand}");
