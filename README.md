@@ -26,12 +26,18 @@ Classes are our blueprints of everything like attributes, methods or objects. Ea
 
 Constructors are preparing the new object for us to use them as we need them. They can be used to set the values of the mmeber of an object.
 
+## Encapsulation
+
 ## Inheritance
  One of key feature of OOP is inheritance. We can create new classes from base class which inherits all the properties and behaviors of its parent but also can extend itself. This greatly increase the code reusability and efficiency. 
 
 ## Interface
 
-Interfaces are used for abstraction. 
+Interfaces are used for abstraction. Since C# is not supporting multiple inheritance from classes, we will inherit via interfaces for multiple inheritance. Default access modifier is public. They could not contain body of an object, only signatures but with the newer version of C# may have a body. Sub classes must be implemented all members inside interface. This allow developer to set rules of behaviour to the sub classes. Helps us to follow a pattern easily.
+
+## Polymorphism
+
+Another key feature of OOP along with inheritance and encapsulation. As the meaning of polymorphism, it means many-shaped. In other words, one object has many forms or has one name with multiple functionalities. "Poly" means many and "morph" means forms. It helps to class to have multiple implementation with the same name. For example Method or function overloading. We achieve it by giving different parameters to method with same name.
 
 
 
@@ -40,7 +46,8 @@ Interfaces are used for abstraction.
 
 - [Abstraction](https://github.com/ebakircie/OOP/tree/master/Abstraction/Abstraction)
 - [Class](https://github.com/ebakircie/OOP/tree/master/Class)
-- [Constructoır](https://github.com/ebakircie/OOP/tree/master/Constructor)
+- [Constructor](https://github.com/ebakircie/OOP/tree/master/Constructor)
+- [Encapsulation](https://github.com/ebakircie/OOP/tree/master/Encapsulation)
 - [Inheritance](https://github.com/ebakircie/OOP/tree/master/Inheritance)
 - [Interface](https://github.com/ebakircie/OOP/tree/master/Interface)
 - [Polymorphism](https://github.com/ebakircie/OOP/tree/master/Polymorphism)
