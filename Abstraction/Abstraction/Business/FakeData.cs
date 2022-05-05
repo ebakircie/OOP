@@ -11,7 +11,7 @@ namespace YZL5155_Abstract_3.Business
         {
             new AppUser { Id = 1, FirstName = "Ersin", LastName = "Bakirci", Role = Role.Admin, UpdateDate = null, DeleteDate = null },
             new AppUser { Id = 2, FirstName = "Pazuzu", LastName = "zuzu", Role = Role.Admin, UpdateDate = null, DeleteDate = null },
-            new AppUser { Id = 3, FirstName = "Eb", LastName = "BBB", Role = Role.Member, UpdateDate = null, DeleteDate = null }
+            new AppUser { Id = 3, FirstName = "Ebb", LastName = "BBB", Role = Role.Member, UpdateDate = null, DeleteDate = null }
         };
     }
 }

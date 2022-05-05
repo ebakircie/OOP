@@ -29,7 +29,7 @@ namespace Inheritance
             product.Name = "Mouse";
             product.Stock = 10;
             product.Description = "Best mouse ever!";
-            product.Price = 50;
+            product.Price = 70;
             
         }
     }

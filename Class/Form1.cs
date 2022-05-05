@@ -30,5 +30,6 @@ namespace Class
 
             MessageBox.Show("Display: " + hp.DisplaySecreen + "\n" + "Memory Type: " + hp.MemoryType + "\n" + "Memory Capacity: " + hp.MemoryCapacity);
         }
+
     }
 }

@@ -56,7 +56,7 @@ namespace YZL5155_Polymorphism
                 Id = 1,
                 Brand = "Iphone",
                 Model = "x13",
-                Price = "78"
+                Price = "80"
             };
 
             IphoneRepository iphoneRepository = new IphoneRepository();

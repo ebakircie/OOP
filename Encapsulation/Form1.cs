@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Static_Class
+namespace Encapsulation
 {
     public partial class Form1 : Form
     {
@@ -17,10 +17,11 @@ namespace Static_Class
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void btnCheck_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(Utilities.ComputerName);
+            Person person = new Person();
+            person.Name = txtName.Text;
+            person.Age = Convert.ToInt32(txtAge.Text);
         }
     }
 }
-

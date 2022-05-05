@@ -39,7 +39,7 @@ namespace YZL5155_Constructor
             // btnExample_1
             // 
             this.btnExample_1.Location = new System.Drawing.Point(14, 14);
-            this.btnExample_1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.btnExample_1.Margin = new System.Windows.Forms.Padding(5);
             this.btnExample_1.Name = "btnExample_1";
             this.btnExample_1.Size = new System.Drawing.Size(173, 80);
             this.btnExample_1.TabIndex = 0;
@@ -54,7 +54,7 @@ namespace YZL5155_Constructor
             this.btnExample_2.Name = "btnExample_2";
             this.btnExample_2.Size = new System.Drawing.Size(173, 80);
             this.btnExample_2.TabIndex = 0;
-            this.btnExample_2.Text = "Constroctor 2";
+            this.btnExample_2.Text = "Constructor 2";
             this.btnExample_2.UseVisualStyleBackColor = true;
             this.btnExample_2.Click += new System.EventHandler(this.btnExample_2_Click);
             // 
@@ -101,7 +101,7 @@ namespace YZL5155_Constructor
             this.Controls.Add(this.button3);
             this.Controls.Add(this.btnExample_1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
