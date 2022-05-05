@@ -28,6 +28,8 @@ Constructors are preparing the new object for us to use them as we need them. Th
 
 ## Encapsulation
 
+We can restrict the direct access to some componenets of an object that not necessary to its user. 
+
 ## Inheritance
  One of key feature of OOP is inheritance. We can create new classes from base class which inherits all the properties and behaviors of its parent but also can extend itself. This greatly increase the code reusability and efficiency. 
 
