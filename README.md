@@ -44,7 +44,7 @@ Another key feature of OOP along with inheritance and encapsulation. As the mean
  
  ## - [Static Class](https://github.com/ebakircie/OOP/tree/master/Static_Class)
 
-
+Static means something which cannot be instantiated. We can use them wherever we need without instantiate.
 
 
 
