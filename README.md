@@ -24,7 +24,7 @@ Classes are our blueprints of everything like attributes, methods or objects. Ea
 
 ## Constructor
 
-Constructors are preparing the new object for us to use them as we need them. They can be used to set the values of the mmeber of an object.
+Constructors are preparing the new object for us to use them as we need them. They can be used to set the values of the member of an object.
 
 ## Encapsulation
 
