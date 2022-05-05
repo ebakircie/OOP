@@ -44,7 +44,7 @@ Another key feature of OOP along with inheritance and encapsulation. As the mean
  
  ## - [Static Class](https://github.com/ebakircie/OOP/tree/master/Static_Class)
 
-Static means something which cannot be instantiated. We can use them wherever we need without instantiate.
+Static means something which cannot be instantiated. We can use them wherever we need without instantiate. All members of static class must be also static. It cannot contain instance members or constructor. Static classes cannot inherit from other classes. We can easily access them everywhere in solution even if it is in different layer if we gave reference. The only thing we should consider that they remain in memory for the lifetime of the application. 
 
 
 
